@@ -1,0 +1,4 @@
+Id;Message;Id Sender;Id Receiver;Time arrival;Time dept
+2;Come va?;S2;R2;17:02:23;17:02:24
+3;MyMsg;S3;R3;17:02:25;17:02:27
+1;CiaoZano;S3;R2;17:02:24;17:02:29
